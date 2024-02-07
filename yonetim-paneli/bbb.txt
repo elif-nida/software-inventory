@@ -1,0 +1,8 @@
+Array
+(
+    [baslik] => c++
+)
+Array
+(
+    [baslik] => c++
+)
